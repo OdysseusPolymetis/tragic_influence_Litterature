@@ -2278,5 +2278,347 @@
       "line_start": 484,
       "line_end": 505
     }
+  },
+  {
+    "id": "m121",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Thy. : Atreus construit la capture de Thyeste par dolus/fraus ; rapprochement avec l'imagerie eschyléenne du piège et de la toile autour de Clytemnestre. Signal intertextuel critique, mais non scène identique.",
+    "source_scholar": "Brook 2019; CAMWS 2018, 'Influence of Aeschylus' Agamemnon on Seneca's Thyestes' : Sen. Thy. 286, 316-321 / Aesch. Ag. 1491-1520",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 286,
+      "line_end": 321
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 1491,
+      "line_end": 1520
+    }
+  },
+  {
+    "id": "m122",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Thy. : fausse réconciliation et appel à l'embrassement ; parallèle avec l'accueil affectueux et équivoque de Clytemnestre à Agamemnon.",
+    "source_scholar": "CAMWS 2018 : Sen. Thy. 508-511 / Aesch. Ag. 890-913; Tarrant 1985 ad loc.",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 508,
+      "line_end": 511
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 890,
+      "line_end": 913
+    }
+  },
+  {
+    "id": "m123",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Thy. : Thyeste comme victime prise dans les rets/plagae ; parallèle critique avec le filet meurtrier de Clytemnestre.",
+    "source_scholar": "CAMWS 2018 : Sen. Thy. 491-503 / Aesch. Ag. 1381-1387 et 1491-1520; Brook 2019",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 491,
+      "line_end": 503
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 1381,
+      "line_end": 1387
+    }
+  },
+  {
+    "id": "m124",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Thy. : double langage d'Atreus autour de vincla/victimae ; parallèle avec le langage ambigu de Clytemnestre sur le retour d'Agamemnon et la justice.",
+    "source_scholar": "CAMWS 2018 : Sen. Thy. 545-546 / Aesch. Ag. 910-913",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 540,
+      "line_end": 546
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 905,
+      "line_end": 913
+    }
+  },
+  {
+    "id": "m125",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Thy. : meurtre des enfants comme sacrifice inversé ; rapprochement avec la mise à mort d'Iphigénie comme offrande sacrificielle dans l'Agamemnon.",
+    "source_scholar": "CAMWS 2018 : Sen. Thy. 682-691 / Aesch. Ag. 224-247; Fowler 1991; Tarrant 1985",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 682,
+      "line_end": 691
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 224,
+      "line_end": 247
+    }
+  },
+  {
+    "id": "m126",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Thy. : vocabulaire sacrificiel appliqué aux fils de Thyeste, hostiae/victimae et Atreus sacerdos ; parallèle avec la logique sacrificielle d'Iphigénie.",
+    "source_scholar": "CAMWS 2018 : Sen. Thy. 759 et 682-691 / Aesch. Ag. 224-247; Tarrant 1985",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 755,
+      "line_end": 760
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 224,
+      "line_end": 247
+    }
+  },
+  {
+    "id": "m127",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : Hélène annonce le pseudo-mariage de Polyxène qui masque son sacrifice ; parallèle avec l'espace féminin d'Hécube révélant à Polyxène son destin.",
+    "source_scholar": "Gloyn 2025, all-female stage space, Sen. Tro. 861-869 / Eur. Hec. 177-215",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 861,
+      "line_end": 869
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 177,
+      "line_end": 215
+    }
+  },
+  {
+    "id": "m128",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : Hécube, Andromaque, Polyxène et Hélène forment un espace féminin précaire avant l'irruption masculine ; parallèle avec Hecuba 177-215.",
+    "source_scholar": "Gloyn 2025 : Sen. Tro. 981-998 / Eur. Hec. 177-215",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 981,
+      "line_end": 998
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 177,
+      "line_end": 215
+    }
+  },
+  {
+    "id": "m129",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : Pyrrhus rompt l'espace féminin et arrache Polyxène ; parallèle fonctionnel avec l'entrée d'Ulysse chargé d'emmener Polyxène chez Euripide.",
+    "source_scholar": "Gloyn 2025 : Sen. Tro. 999-1008 / Eur. Hec. 216-260",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 999,
+      "line_end": 1008
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 216,
+      "line_end": 260
+    }
+  },
+  {
+    "id": "m130",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : pseudo-mariage avec Pyrrhus/Achille comme masque du sacrifice ; parallèle critique avec Iphigénie attirée à Aulis par la promesse d'un mariage avec Achille.",
+    "source_scholar": "Frangoulidis 2018, 'Euripides' Iphigenia at Aulis and Seneca's Troades'; Kovacs 2010 sur Iphigénie/Polyxène et les liens quasi matrimoniaux avec Achille",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 861,
+      "line_end": 869
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg018",
+      "line_start": 676,
+      "line_end": 741
+    }
+  },
+  {
+    "id": "m131",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : dignité et disponibilité de Polyxène devant le sacrifice ; parallèle avec le retournement d'Iphigénie vers l'acceptation volontaire de sa mort.",
+    "source_scholar": "Frangoulidis 2018; Kovacs 2010 : Sen. Tro. 1137-1152 / Eur. IA 1368-1401",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1137,
+      "line_end": 1152
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg018",
+      "line_start": 1368,
+      "line_end": 1401
+    }
+  },
+  {
+    "id": "m132",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Tro. : sacrifice de la jeune fille au bénéfice de l'armée grecque ; topos sacrificiel commun Polyxène/Iphigénie, utile comme cas limite plutôt que comme emprunt local strict.",
+    "source_scholar": "Frangoulidis 2018; Kovacs 2010 : Polyxène/Iphigénie, sacrifice et guerre de Troie",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1118,
+      "line_end": 1164
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg018",
+      "line_start": 1400,
+      "line_end": 1430
+    }
+  },
+  {
+    "id": "m133",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : ouverture sur Œdipe aveugle en exil avec Antigone ; parallèle de dispositif avec l'ouverture de l'Œdipe à Colone.",
+    "source_scholar": "Zwierlein 1986 ad Phoen.; Soph. OC comme modèle de l'Œdipe aveugle guidé par Antigone",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 1,
+      "line_end": 40
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg007",
+      "line_start": 1,
+      "line_end": 36
+    }
+  },
+  {
+    "id": "m134",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : Antigone tente de retenir Œdipe dans la vie et dans le lien familial ; parallèle avec la piété d'Antigone-guide chez Sophocle.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 1-183; Ginsberg 2015 sur la pietas d'Antigone dans Sen. Phoen.",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 41,
+      "line_end": 79
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg007",
+      "line_start": 37,
+      "line_end": 80
+    }
+  },
+  {
+    "id": "m135",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : Jocaste médiatrice face à la guerre civile des fils ; parallèle avec la Jocaste d'Euripide dans la scène agonistique des Phéniciennes.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 443-664; Ginsberg 2015; Eur. Phoen. 446-525",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 319,
+      "line_end": 362
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg015",
+      "line_start": 446,
+      "line_end": 525
+    }
+  },
+  {
+    "id": "m136",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Oed. : motif de la malédiction transgénérationnelle et de la souillure thébaine ; rapprochement avec Euripide, mais à garder comme topos/cas limite.",
+    "source_scholar": "Boyle 2011/OUP commentary on Seneca Oedipus; Eur. Phoen. 17-20, 380, 868-869 et 1608-1614",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 1,
+      "line_end": 20
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg015",
+      "line_start": 17,
+      "line_end": 20
+    }
+  },
+  {
+    "id": "m137",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Oed. : enquête sur Laios et pollution de Thèbes ; motif œdipien partagé mais traitement sénécanéen contaminé par plusieurs traditions tragiques.",
+    "source_scholar": "Boyle 2011/OUP commentary on Sen. Oedipus, introduction; Eur. Phoen. et Soph. OT comme traditions croisées",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 202,
+      "line_end": 220
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg015",
+      "line_start": 380,
+      "line_end": 395
+    }
+  },
+  {
+    "id": "m138",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Négatif contrôlé : deux scènes de sacrifice féminin autour de la guerre de Troie, mais Polyxène chez Sénèque est déjà prisonnière troyenne, alors qu'Iphigénie est victime d'un stratagème familial grec ; proximité mythique sans alignement local strict.",
+    "source_scholar": "Hard negative construit à partir de Frangoulidis 2018 et Kovacs 2010",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 938,
+      "line_end": 960
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg018",
+      "line_start": 1120,
+      "line_end": 1140
+    }
   }
 ]
