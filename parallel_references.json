@@ -1,86 +1,162 @@
 [
   {
-    "id": "p001",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Prologue de Junon (Sen.) vs prologue d'Amphitryon (Eur.) — dispositif d'ouverture, haine divine envers Hercule",
-    "source_scholar": "Fitch 1987 ad HF 1-124",
+    "id": "m001",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : prologue de Junon, jalousie divine et menace contre Hercule ; parallèle de fonction avec l'exposition euripidéenne.",
+    "source_scholar": "Fitch 1987 ad HF 1-124; segmentation micro à partir de p001",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi001",
       "line_start": 1,
-      "line_end": 124
+      "line_end": 12
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg009",
       "line_start": 1,
-      "line_end": 86
+      "line_end": 12
     }
   },
   {
-    "id": "p002",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Confrontation Lycus/Amphitryon — structure agonistique, chantage à la mort",
-    "source_scholar": "Fitch 1987 ad HF 340-523",
+    "id": "m002",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : rappel des travaux d'Hercule et de Cerbère ; Euripide expose aussi les travaux et la descente aux Enfers.",
+    "source_scholar": "Fitch 1987 ad HF 19-63; p001",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 45,
+      "line_end": 57
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg009",
+      "line_start": 20,
+      "line_end": 25
+    }
+  },
+  {
+    "id": "m003",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : Junon programme la folie d'Hercule et formule l'idée qu'il devienne son propre adversaire ; Euripide met en scène Iris/Lyssa envoyées par Héra. Parallèle dramaturgique fort, mais non verbal.",
+    "source_scholar": "Fitch 1987 ad HF 84-122; Bernstein 2017 sur HF 84-122; p003",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 84,
+      "line_end": 105
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg009",
+      "line_start": 824,
+      "line_end": 842
+    }
+  },
+  {
+    "id": "m004",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : Lycus exige de savoir quelle espérance reste aux suppliants ; scène agonistique face à Amphitryon.",
+    "source_scholar": "Fitch 1987 ad HF 340-523; p002",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi001",
       "line_start": 340,
-      "line_end": 523
+      "line_end": 360
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg009",
       "line_start": 140,
-      "line_end": 347
+      "line_end": 160
     }
   },
   {
-    "id": "p003",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Fureur d'Hercule — crise, gestes hallucinés, meurtre des enfants",
-    "source_scholar": "Fitch 1987 ad HF 939-1053",
+    "id": "m005",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : dénigrement de l'héroïsme d'Hercule et discussion de l'arc.",
+    "source_scholar": "Fitch 1987 ad HF 456-523; p002",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi001",
-      "line_start": 939,
-      "line_end": 1053
+      "line_start": 456,
+      "line_end": 490
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg009",
-      "line_start": 815,
-      "line_end": 873
+      "line_start": 180,
+      "line_end": 210
     }
   },
   {
-    "id": "p004",
+    "id": "m006",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : chœur sur Fortune et instabilité des destins héroïques.",
+    "source_scholar": "Fitch 1987 ad HF 524-591; p023",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 524,
+      "line_end": 540
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg009",
+      "line_start": 637,
+      "line_end": 654
+    }
+  },
+  {
+    "id": "m007",
     "label": 3,
     "label_name": "emprunt_direct",
-    "note": "Réveil d'Hercule — stupeur progressive, reconnaissance des corps, désespoir",
-    "source_scholar": "Fitch 1987 ad HF 1138-1221",
+    "note": "HF : réveil d'Hercule, trouble de conscience et reconnaissance de son état.",
+    "source_scholar": "Fitch 1987 ad HF 1138-1221; p004",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi001",
       "line_start": 1138,
-      "line_end": 1221
+      "line_end": 1152
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg009",
       "line_start": 1089,
-      "line_end": 1162
+      "line_end": 1108
     }
   },
   {
-    "id": "p005",
+    "id": "m008",
     "label": 3,
     "label_name": "emprunt_direct",
-    "note": "Thésée offre l'asile à Athènes — solidarité héroïque",
-    "source_scholar": "Fitch 1987 ad HF 1341-1344",
+    "note": "HF : reconnaissance progressive du meurtre des enfants et de l'épouse.",
+    "source_scholar": "Fitch 1987 ad HF 1138-1221; p004",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 1194,
+      "line_end": 1208
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg009",
+      "line_start": 1132,
+      "line_end": 1148
+    }
+  },
+  {
+    "id": "m009",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HF : Thésée offre asile et purification à Athènes ; même résolution dramaturgique, mais le latin est très condensé et le grec développe l'accueil civique.",
+    "source_scholar": "Fitch 1987 ad HF 1341-1344; p005",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi001",
@@ -95,111 +171,377 @@
     }
   },
   {
-    "id": "p006",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Monologue d'ouverture de Médée — fureur vengeresse, invocation des dieux infernaux",
-    "source_scholar": "Costa 1973 ad Med. 1-55; Zwierlein 1986",
+    "id": "m010",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : ouverture par la catastrophe argonautique et le mariage trahi ; parallèle de cadre avec l'ouverture d'Euripide.",
+    "source_scholar": "Costa 1973 ad Med. 1-55; p006",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
       "line_start": 1,
-      "line_end": 55
+      "line_end": 13
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg003",
       "line_start": 1,
-      "line_end": 48
+      "line_end": 15
     }
   },
   {
-    "id": "p007",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Confrontation Médée/Jason — accusations, rhétorique de la trahison conjugale",
-    "source_scholar": "Costa 1973 ad Med. 168-251",
+    "id": "m011",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : Médée invoque les puissances nocturnes et infernales ; parallèle de tonalité vengeresse.",
+    "source_scholar": "Costa 1973 ad Med. 1-55; p006",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
-      "line_start": 168,
-      "line_end": 251
+      "line_start": 6,
+      "line_end": 18
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg003",
-      "line_start": 446,
-      "line_end": 626
+      "line_start": 395,
+      "line_end": 409
     }
   },
   {
-    "id": "p008",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Délibération de Médée sur l'infanticide — oscillation amour maternel / fureur",
-    "source_scholar": "Costa 1973 ad Med. 893-977; Boyle 2014",
+    "id": "m012",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : nourrice/modération de la passion ; même fonction dramaturgique de dissuasion.",
+    "source_scholar": "Costa 1973 ad Med. 150-167; p024",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
-      "line_start": 893,
-      "line_end": 977
+      "line_start": 150,
+      "line_end": 167
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg003",
-      "line_start": 1019,
+      "line_start": 83,
+      "line_end": 95
+    }
+  },
+  {
+    "id": "m013",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Med. : Créon expulse Médée ; scène locale forte du décret d'exil face à la femme jugée dangereuse.",
+    "source_scholar": "Costa 1973 ad Med. 179-200; p036",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 179,
+      "line_end": 200
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 271,
+      "line_end": 293
+    }
+  },
+  {
+    "id": "m014",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : Médée rappelle son origine et sa chute ; rapprochement avec la rhétorique euripidéenne de l'exil et du mérite, mais l'interlocuteur et la fonction locale diffèrent.",
+    "source_scholar": "Costa 1973 ad Med. 168-251; p007",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 203,
+      "line_end": 220
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 498,
+      "line_end": 519
+    }
+  },
+  {
+    "id": "m015",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : Médée évoque les Argonautes et sa dette envers la Grèce ; rapprochement thématique avec l'échange Médée/Jason, mais non alignement local strict.",
+    "source_scholar": "Costa 1973 ad Med. 168-251; p007",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 221,
+      "line_end": 239
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 520,
+      "line_end": 545
+    }
+  },
+  {
+    "id": "m016",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : chœur sur l'audace maritime et Argo.",
+    "source_scholar": "Costa 1973 ad Med. 301-379; p029",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 301,
+      "line_end": 329
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 410,
+      "line_end": 430
+    }
+  },
+  {
+    "id": "m017",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : renversement moral du voyage maritime et de la quête argonautique.",
+    "source_scholar": "Costa 1973 ad Med. 301-379; p029",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 330,
+      "line_end": 360
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 431,
+      "line_end": 445
+    }
+  },
+  {
+    "id": "m018",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Med. : préparation magique chez Sénèque ; rapprochement thématique avec la ruse du poison chez Euripide, sans équivalence verbale étroite.",
+    "source_scholar": "Costa 1973 ad Med. 740-842; prudence méthodologique",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 740,
+      "line_end": 760
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 784,
+      "line_end": 810
+    }
+  },
+  {
+    "id": "m019",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : ouverture du monologue d'infanticide chez Sénèque et début du grand monologue euripidéen ; parenté de mouvement dramatique, mais signaux locaux surtout psychologiques, non verbaux.",
+    "source_scholar": "Gill 1987; Aygon 2000, Med. 895-925 / Eur. Med. 1021-1080; Gill 1987; Aygon 2000; Loeb bibliographic note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 895,
+      "line_end": 925
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 1021,
+      "line_end": 1039
+    }
+  },
+  {
+    "id": "m020",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Med. : conflit mère/épouse, recul devant le meurtre des enfants.",
+    "source_scholar": "Gill 1987; Aygon 2000, division 926-957",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 926,
+      "line_end": 944
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 1040,
+      "line_end": 1055
+    }
+  },
+  {
+    "id": "m021",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Med. : oscillation entre ira et pietas / entre résolution et pitié.",
+    "source_scholar": "Gill 1987; Aygon 2000, division 926-957",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 945,
+      "line_end": 957
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 1056,
+      "line_end": 1077
+    }
+  },
+  {
+    "id": "m022",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : résolution finale du conflit intérieur ; parallèle fort de mouvement psychologique, mais formulation et imagerie très divergentes.",
+    "source_scholar": "Gill 1987; Aygon 2000, v. 958 sqq.; Eur. Med. 1078-1080",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 958,
+      "line_end": 970
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 1078,
       "line_end": 1080
     }
   },
   {
-    "id": "p009",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Confrontation finale Médée/Jason après les meurtres — verticalité spatiale",
-    "source_scholar": "Costa 1973 ad Med. 988-1027",
+    "id": "m023",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Med. : Jason arrive après le meurtre et réclame les corps ; parallèle de situation finale, mais le noyau spectaculaire le plus fort est dans l'entrée suivante.",
+    "source_scholar": "Costa 1973 ad Med. 988-1027; p009; Costa 1973; Boyle 2014; Battistella & Nelis 2017",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
       "line_start": 988,
-      "line_end": 1027
+      "line_end": 1004
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg003",
       "line_start": 1293,
+      "line_end": 1305
+    }
+  },
+  {
+    "id": "m024",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Med. : confrontation finale au-dessus de la scène / verticalité du char ou du toit.",
+    "source_scholar": "Costa 1973 ad Med. 988-1027; p009; Costa 1973; Battistella & Nelis 2017",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 1005,
+      "line_end": 1027
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 1317,
       "line_end": 1322
     }
   },
   {
-    "id": "p010",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Scène de chasse en ouverture — chasteté vouée à Diane/Artémis",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 1-84",
+    "id": "m025",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phae. : ouverture cynégétique et dévotion à Diane/Artémis.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 1-84; p010",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
-      "line_start": 1,
-      "line_end": 84
+      "line_start": 54,
+      "line_end": 75
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg005",
       "line_start": 58,
-      "line_end": 120
+      "line_end": 79
     }
   },
   {
-    "id": "p011",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Aveu de Phèdre à Hippolyte — déclaration inouïe, rejet",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 600-718",
+    "id": "m026",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phae. : la nourrice tente de maîtriser la passion de Phèdre ; rôle modérateur parallèle.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 129-273; p025",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 129,
+      "line_end": 153
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 433,
+      "line_end": 461
+    }
+  },
+  {
+    "id": "m027",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phae. : maladie de Phèdre et confidence arrachée par la nourrice ; parallèle de scène, mais dispositif énonciatif non strictement équivalent.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 362-430; p059",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 362,
+      "line_end": 383
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 268,
+      "line_end": 288
+    }
+  },
+  {
+    "id": "m028",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phae. : déclaration interdite de Phèdre ; chez Euripide, l'équivalent passe par la nourrice et la réaction d'Hippolyte.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 600-718; p011",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
       "line_start": 600,
-      "line_end": 718
+      "line_end": 616
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 616,
+      "line_end": 640
+    }
+  },
+  {
+    "id": "m029",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phae. : réaction horrifiée et misogyne d'Hippolyte après la révélation ; parallèle fort, mais l'économie scénique diffère, car Euripide fait passer l'aveu par la nourrice.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 600-718; p011",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 671,
+      "line_end": 700
     },
     "greek": {
       "tlg_author": "tlg0006",
@@ -209,11 +551,11 @@
     }
   },
   {
-    "id": "p012",
+    "id": "m030",
     "label": 3,
     "label_name": "emprunt_direct",
-    "note": "Malédiction de Thésée — invocation à Neptune/Poséidon, souhait de mort",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 942-958",
+    "note": "Phae. : malédiction de Thésée invoquant Neptune/Poséidon.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 942-958; p012",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
@@ -228,600 +570,1265 @@
     }
   },
   {
-    "id": "p013",
+    "id": "m031",
     "label": 3,
     "label_name": "emprunt_direct",
-    "note": "Récit du messager — mort d'Hippolyte déchiré par ses chevaux",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 1000-1114",
+    "note": "Phae. : récit de départ d'Hippolyte et préparation du char.",
+    "source_scholar": "Segal 1984; Zanobi 2008; p013",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
       "line_start": 1000,
-      "line_end": 1114
+      "line_end": 1012
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg005",
       "line_start": 1173,
+      "line_end": 1197
+    }
+  },
+  {
+    "id": "m032",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Phae. : grondement marin et vague prodigieuse.",
+    "source_scholar": "Segal 1984; Zanobi 2008; p013",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 1013,
+      "line_end": 1034
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 1198,
+      "line_end": 1214
+    }
+  },
+  {
+    "id": "m033",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Phae. : apparition du taureau marin.",
+    "source_scholar": "Segal 1984; Zanobi 2008; p013",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 1035,
+      "line_end": 1055
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 1214,
+      "line_end": 1225
+    }
+  },
+  {
+    "id": "m034",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Phae. : panique des chevaux et perte de contrôle du char.",
+    "source_scholar": "Segal 1984; Zanobi 2008; p013",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 1056,
+      "line_end": 1084
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 1226,
+      "line_end": 1239
+    }
+  },
+  {
+    "id": "m035",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Phae. : corps d'Hippolyte entraîné et déchiré.",
+    "source_scholar": "Segal 1984; Zanobi 2008; p013",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 1085,
+      "line_end": 1105
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 1239,
       "line_end": 1248
     }
   },
   {
-    "id": "p014",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Cassandre prophétise — voyante incrédule, alternance prophétie/réfutation",
-    "source_scholar": "Tarrant 1976 ad Ag. 720-867",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi007",
-      "line_start": 720,
-      "line_end": 867
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg005",
-      "line_start": 1072,
-      "line_end": 1330
-    }
-  },
-  {
-    "id": "p015",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Récit de la tempête — naufrage de la flotte grecque au retour de Troie",
-    "source_scholar": "Tarrant 1976 ad Ag. 421-578",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi007",
-      "line_start": 421,
-      "line_end": 578
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg005",
-      "line_start": 636,
-      "line_end": 680
-    }
-  },
-  {
-    "id": "p016",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Consultation de Tirésias — structure oraculaire, résistance du devin",
-    "source_scholar": "Töchterle 1994 ad Oed. 223-402",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi006",
-      "line_start": 223,
-      "line_end": 402
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg004",
-      "line_start": 300,
-      "line_end": 462
-    }
-  },
-  {
-    "id": "p017",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Scène de reconnaissance — Œdipe découvre la vérité sur sa naissance",
-    "source_scholar": "Töchterle 1994 ad Oed. 764-881",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi006",
-      "line_start": 764,
-      "line_end": 881
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg004",
-      "line_start": 924,
-      "line_end": 1085
-    }
-  },
-  {
-    "id": "p018",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Suicide de Jocaste / aveuglement d'Œdipe — enchaînement catastrophique",
-    "source_scholar": "Töchterle 1994 ad Oed. 999-1051",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi006",
-      "line_start": 999,
-      "line_end": 1051
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg004",
-      "line_start": 1237,
-      "line_end": 1285
-    }
-  },
-  {
-    "id": "p019",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Andromaque cache Astyanax dans le tombeau d'Hector",
-    "source_scholar": "Fantham 1982 ad Tro. 409-523",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi002",
-      "line_start": 409,
-      "line_end": 523
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg011",
-      "line_start": 709,
-      "line_end": 798
-    }
-  },
-  {
-    "id": "p020",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Sacrifice de Polyxène — dignité de la victime, Hécube et Talthybios",
-    "source_scholar": "Fantham 1982 ad Tro. 1118-1164; cf. Eur. Hec. 521-582",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi002",
-      "line_start": 1118,
-      "line_end": 1164
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg007",
-      "line_start": 521,
-      "line_end": 582
-    }
-  },
-  {
-    "id": "p021",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Antigone accompagne Œdipe aveugle — motif de la fille-guide",
-    "source_scholar": "Zwierlein 1986 ad Phoen. 80-183",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi003",
-      "line_start": 80,
-      "line_end": 183
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg007",
-      "line_start": 1,
-      "line_end": 116
-    }
-  },
-  {
-    "id": "p022",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Etéocle refuse de céder le trône — hubris politique, refus de partage",
-    "source_scholar": "Zwierlein 1986 ad Phoen. 443-664",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi003",
-      "line_start": 443,
-      "line_end": 664
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg015",
-      "line_start": 469,
-      "line_end": 637
-    }
-  },
-  {
-    "id": "p023",
+    "id": "m036",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Chœur cosmologique sur la Fortune — roue de la Fortune, vocabulaire commun",
-    "source_scholar": "Fitch 1987 ad HF 524-591",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi001",
-      "line_start": 524,
-      "line_end": 591
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg009",
-      "line_start": 637,
-      "line_end": 700
-    }
-  },
-  {
-    "id": "p024",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Nourrice tente de dissuader Médée — rôle de la nourrice modératrice",
-    "source_scholar": "Costa 1973 ad Med. 150-167",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi004",
-      "line_start": 150,
-      "line_end": 167
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg003",
-      "line_start": 49,
-      "line_end": 130
-    }
-  },
-  {
-    "id": "p025",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Nourrice de Phèdre tente de la détourner de sa passion",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 129-273",
+    "note": "Phae. : fausse accusation et calomnie posthume.",
+    "source_scholar": "Coffey & Mayer 1990 ad Phae. 719-835; p073",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
-      "line_start": 129,
-      "line_end": 273
+      "line_start": 719,
+      "line_end": 735
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg005",
-      "line_start": 433,
-      "line_end": 524
+      "line_start": 776,
+      "line_end": 805
     }
   },
   {
-    "id": "p026",
+    "id": "m037",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Hécube lamenta la chute de Troie — thrênos, inventaire des pertes",
-    "source_scholar": "Fantham 1982 ad Tro. 67-164",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi002",
-      "line_start": 67,
-      "line_end": 164
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg011",
-      "line_start": 98,
-      "line_end": 229
-    }
-  },
-  {
-    "id": "p027",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Annonce de la mort de Polyxène à Hécube — thrênos, mère et enfant",
-    "source_scholar": "cf. Eur. Hec. 1-58",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi002",
-      "line_start": 938,
-      "line_end": 1008
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg007",
-      "line_start": 1,
-      "line_end": 97
-    }
-  },
-  {
-    "id": "p028",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Lamentation d'Electre sur le tombeau d'Agamemnon — thrênos épitumbios",
-    "source_scholar": "Tarrant 1976 ad Ag. 669-719",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi007",
-      "line_start": 669,
-      "line_end": 719
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg006",
-      "line_start": 22,
-      "line_end": 83
-    }
-  },
-  {
-    "id": "p029",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Chœur sur les limites de la navigation — topos du naufrage moral",
-    "source_scholar": "Costa 1973 ad Med. 301-379",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi004",
-      "line_start": 301,
-      "line_end": 379
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg003",
-      "line_start": 410,
-      "line_end": 445
-    }
-  },
-  {
-    "id": "p030",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Hippolyte célèbre la forêt vierge et Diane — éloge de la vie pure",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 483-564",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi005",
-      "line_start": 483,
-      "line_end": 564
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg005",
-      "line_start": 1268,
-      "line_end": 1340
-    }
-  },
-  {
-    "id": "p031",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Clytemnestre délibère — femme adultère et criminelle face à son acte",
-    "source_scholar": "Tarrant 1976 ad Ag. 108-225",
+    "note": "Ag. : Clytemnestre délibère, femme adultère et criminelle devant l'acte.",
+    "source_scholar": "Tarrant 1976 ad Ag. 108-225; p031",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi007",
       "line_start": 108,
-      "line_end": 225
+      "line_end": 132
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg005",
       "line_start": 855,
-      "line_end": 1034
+      "line_end": 885
     }
   },
   {
-    "id": "p032",
+    "id": "m038",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Chœur sur la chute des grands — fortune instable appliquée aux rois",
-    "source_scholar": "Tarrant 1976 ad Thy. 546-622",
+    "note": "Ag. : début du récit de tempête au retour de Troie.",
+    "source_scholar": "Tarrant 1976 ad Ag. 421-578; p015",
     "latin": {
       "author_id": "phi1017",
-      "work_id": "phi008",
-      "line_start": 546,
-      "line_end": 622
+      "work_id": "phi007",
+      "line_start": 421,
+      "line_end": 445
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg005",
-      "line_start": 750,
-      "line_end": 782
+      "line_start": 636,
+      "line_end": 647
     }
   },
   {
-    "id": "p033",
+    "id": "m039",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Messager annonce la chute de Troie — récit de catastrophe collective",
-    "source_scholar": "Fantham 1982 ad Tro. 1063-1118",
+    "note": "Ag. : tempête, nuit et désordre cosmique.",
+    "source_scholar": "Tarrant 1976 ad Ag. 421-578; p015",
     "latin": {
       "author_id": "phi1017",
-      "work_id": "phi002",
-      "line_start": 1063,
-      "line_end": 1117
+      "work_id": "phi007",
+      "line_start": 456,
+      "line_end": 490
     },
     "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg011",
-      "line_start": 1123,
-      "line_end": 1250
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 648,
+      "line_end": 660
     }
   },
   {
-    "id": "p034",
+    "id": "m040",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Œdipe refuse de vivre après la révélation — auto-exclusion et exil",
-    "source_scholar": "Töchterle 1994 ad Oed. 882-994",
+    "note": "Ag. : naufrage et survivance incertaine des chefs grecs.",
+    "source_scholar": "Tarrant 1976 ad Ag. 421-578; p015",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 511,
+      "line_end": 535
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 661,
+      "line_end": 680
+    }
+  },
+  {
+    "id": "m041",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : entrée prophétique de Cassandre, invocation à Apollon. Parallèle cassandréen fort, mais Sénèque déplace et amplifie la scène.",
+    "source_scholar": "Tarrant 1976 ad Ag. 720-867; p014",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 720,
+      "line_end": 739
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 1072,
+      "line_end": 1089
+    }
+  },
+  {
+    "id": "m042",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : vision de la maison des Atrides et des crimes anciens. Parallèle cassandréen fort, mais Sénèque déplace et amplifie la scène.",
+    "source_scholar": "Tarrant 1976 ad Ag. 720-867; p014",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 740,
+      "line_end": 759
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 1090,
+      "line_end": 1118
+    }
+  },
+  {
+    "id": "m043",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : images du piège, de l'abattage et du meurtre à venir. Parallèle cassandréen fort, mais Sénèque déplace et amplifie la scène.",
+    "source_scholar": "Tarrant 1976 ad Ag. 720-867; p014",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 780,
+      "line_end": 797
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 1125,
+      "line_end": 1145
+    }
+  },
+  {
+    "id": "m044",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : fin de la scène de Cassandre et entrée vers la mort ; parallèle dramaturgique fort, mais Sénèque déplace vers la vision/récit du meurtre accompli.",
+    "source_scholar": "Tarrant 1976 ad Ag. 867-909; p062",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 867,
+      "line_end": 890
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg005",
+      "line_start": 1300,
+      "line_end": 1320
+    }
+  },
+  {
+    "id": "m045",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : lamentation d'Électre sur la tombe d'Agamemnon.",
+    "source_scholar": "Tarrant 1976 ad Ag. 669-719; p028",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 669,
+      "line_end": 690
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg006",
+      "line_start": 22,
+      "line_end": 40
+    }
+  },
+  {
+    "id": "m046",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : thrène d'Électre et mémoire du père.",
+    "source_scholar": "Tarrant 1976 ad Ag. 669-719; p028",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 691,
+      "line_end": 719
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg006",
+      "line_start": 41,
+      "line_end": 65
+    }
+  },
+  {
+    "id": "m047",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Ag. : apparition/lamentation d'Électre, parallèle de position dramatique avec les Choéphores.",
+    "source_scholar": "Tarrant 1976 ad Ag. 589-658; p061",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 589,
+      "line_end": 615
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg006",
+      "line_start": 84,
+      "line_end": 110
+    }
+  },
+  {
+    "id": "m048",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : ouverture sur la peste et détresse collective de Thèbes.",
+    "source_scholar": "Töchterle 1994 ad Oed. 1-109; p065",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 1,
+      "line_end": 20
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 1,
+      "line_end": 30
+    }
+  },
+  {
+    "id": "m049",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : Créon rapporte l'oracle delphique.",
+    "source_scholar": "Töchterle 1994 ad Oed. 202-278; p066",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 202,
+      "line_end": 220
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 95,
+      "line_end": 110
+    }
+  },
+  {
+    "id": "m050",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : appel à Tirésias comme détenteur du savoir mantic.",
+    "source_scholar": "Töchterle 1994 ad Oed. 223-402; prudence : commentaire OUP souligne l'invention sénécanéenne de la scène",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 223,
+      "line_end": 238
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 300,
+      "line_end": 315
+    }
+  },
+  {
+    "id": "m051",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Oed. : scène de mantique/inspection rituelle ; même fonction d'enquête, mais dispositif sénécanéen largement original.",
+    "source_scholar": "Boyle 2011/OUP commentary: Sen. Oed. 291-402 owes little to Soph. OT 300-462; DeBrohun 2017",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 291,
+      "line_end": 315
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 316,
+      "line_end": 340
+    }
+  },
+  {
+    "id": "m052",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : reconnaissance progressive et menace d'identification.",
+    "source_scholar": "Töchterle 1994 ad Oed. 764-881; p017",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 764,
+      "line_end": 790
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 924,
+      "line_end": 950
+    }
+  },
+  {
+    "id": "m053",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : terreur devant l'origine familiale et l'enquête sur la naissance.",
+    "source_scholar": "Töchterle 1994 ad Oed. 764-881; p017",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 813,
+      "line_end": 832
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 986,
+      "line_end": 1007
+    }
+  },
+  {
+    "id": "m054",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : catastrophe finale, Jocaste et aveuglement d'Œdipe. Parallèle local de catastrophe œdipienne, mais traitement sénécanéen très réécrit.",
+    "source_scholar": "Töchterle 1994 ad Oed. 999-1051; p018; Boyle 2011; DeBrohun 2017",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 999,
+      "line_end": 1020
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 1237,
+      "line_end": 1268
+    }
+  },
+  {
+    "id": "m055",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : mutilation et auto-punition d'Œdipe. Parallèle local de catastrophe œdipienne, mais traitement sénécanéen très réécrit.",
+    "source_scholar": "Töchterle 1994 ad Oed. 999-1051; p018; Boyle 2011; DeBrohun 2017",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 1021,
+      "line_end": 1040
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg004",
+      "line_start": 1269,
+      "line_end": 1285
+    }
+  },
+  {
+    "id": "m056",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Oed. : refus de vivre après la révélation, auto-exclusion et exil.",
+    "source_scholar": "Töchterle 1994 ad Oed. 882-994; p034",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi006",
       "line_start": 882,
-      "line_end": 994
+      "line_end": 910
     },
     "greek": {
       "tlg_author": "tlg0011",
       "work_id": "tlg004",
       "line_start": 1369,
-      "line_end": 1415
+      "line_end": 1390
     }
   },
   {
-    "id": "p035",
+    "id": "m057",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Hercule refuse de mourir en lâche — ethos héroïque face à la mort volontaire",
-    "source_scholar": "Fitch 1987 ad HF 1280-1310",
+    "note": "Tro. : Hécube lamente la chute de Troie.",
+    "source_scholar": "Fantham 1982 ad Tro. 67-164; p026",
     "latin": {
       "author_id": "phi1017",
-      "work_id": "phi001",
-      "line_start": 1280,
-      "line_end": 1310
+      "work_id": "phi002",
+      "line_start": 67,
+      "line_end": 85
     },
     "greek": {
       "tlg_author": "tlg0006",
-      "work_id": "tlg009",
-      "line_start": 1245,
-      "line_end": 1310
+      "work_id": "tlg011",
+      "line_start": 98,
+      "line_end": 120
     }
   },
   {
-    "id": "p036",
-    "label": 1,
-    "label_name": "topos_commun",
-    "note": "Topos du tyran corrupteur — Lycus/Créon : rhétorique du pouvoir illégitime",
-    "source_scholar": "Fitch 1987",
+    "id": "m058",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : thrène collectif et inventaire des pertes troyennes.",
+    "source_scholar": "Fantham 1982 ad Tro. 67-164; p026",
     "latin": {
       "author_id": "phi1017",
-      "work_id": "phi001",
-      "line_start": 251,
-      "line_end": 340
+      "work_id": "phi002",
+      "line_start": 101,
+      "line_end": 120
     },
     "greek": {
       "tlg_author": "tlg0006",
-      "work_id": "tlg003",
-      "line_start": 271,
-      "line_end": 356
+      "work_id": "tlg011",
+      "line_start": 153,
+      "line_end": 175
     }
   },
   {
-    "id": "p037",
+    "id": "m059",
     "label": 1,
     "label_name": "topos_commun",
-    "note": "Topos du destin inévitable — vocabulaire de la nécessité et de la fatalité",
-    "source_scholar": "topos générique",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi005",
-      "line_start": 978,
-      "line_end": 1000
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg005",
-      "line_start": 1102,
-      "line_end": 1150
-    }
-  },
-  {
-    "id": "p038",
-    "label": 1,
-    "label_name": "topos_commun",
-    "note": "Topos de la femme abandonnée — deuil amoureux, trahison",
-    "source_scholar": "topos tragique générique",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi004",
-      "line_start": 116,
-      "line_end": 150
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg006",
-      "line_start": 1,
-      "line_end": 55
-    }
-  },
-  {
-    "id": "p039",
-    "label": 1,
-    "label_name": "topos_commun",
-    "note": "Topos du messager porteur de mauvaise nouvelle",
-    "source_scholar": "topos tragique générique",
+    "note": "Tro. : messager porteur de mauvaise nouvelle, topos d'annonce tragique.",
+    "source_scholar": "topos tragique générique; p039",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi002",
       "line_start": 164,
-      "line_end": 202
+      "line_end": 185
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg011",
       "line_start": 235,
-      "line_end": 291
+      "line_end": 260
     }
   },
   {
-    "id": "p040",
+    "id": "m060",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : Andromaque, Astyanax et décision grecque ; parallèle de situation, mais Sénèque modifie fortement l'action.",
+    "source_scholar": "Fantham 1982 ad Tro. 409-523; p019; Fantham 1982; van Zyl Smit 2008; Loeb Troades note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 409,
+      "line_end": 438
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 709,
+      "line_end": 725
+    }
+  },
+  {
+    "id": "m061",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : cachette/tombeau d'Hector et menace sur Astyanax ; réécriture de la scène euripidéenne.",
+    "source_scholar": "Fantham 1982 ad Tro. 409-523; p019; Fantham 1982; van Zyl Smit 2008",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 439,
+      "line_end": 465
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 730,
+      "line_end": 756
+    }
+  },
+  {
+    "id": "m062",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : supplication d'Andromaque autour d'Astyanax.",
+    "source_scholar": "Fantham 1982 ad Tro. 524-813; p067; Fantham 1982; van Zyl Smit 2008",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 524,
+      "line_end": 540
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 709,
+      "line_end": 725
+    }
+  },
+  {
+    "id": "m063",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : débat sur le sort d'Astyanax, rhétorique de la nécessité politique.",
+    "source_scholar": "Fantham 1982 ad Tro. 524-813; p067; Fantham 1982; van Zyl Smit 2008",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 580,
+      "line_end": 605
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 740,
+      "line_end": 765
+    }
+  },
+  {
+    "id": "m064",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : récit de catastrophe collective autour de la chute de Troie.",
+    "source_scholar": "Fantham 1982 ad Tro. 1063-1118; p033",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1063,
+      "line_end": 1085
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 1123,
+      "line_end": 1145
+    }
+  },
+  {
+    "id": "m065",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : chute de Troie, vainqueurs et vaincus dans le même désastre.",
+    "source_scholar": "Fantham 1982 ad Tro. 1063-1118; p033",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1086,
+      "line_end": 1110
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 1161,
+      "line_end": 1185
+    }
+  },
+  {
+    "id": "m066",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Tro. : récit du sacrifice de Polyxène, arrivée et posture de la victime.",
+    "source_scholar": "Fantham 1982 ad Tro. 1118-1164; Eur. Hec. 521-582; p020; Fantham 1982; Euripides Hecuba model",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1118,
+      "line_end": 1136
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 521,
+      "line_end": 535
+    }
+  },
+  {
+    "id": "m067",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Tro. : dignité de Polyxène face au sacrifice.",
+    "source_scholar": "Fantham 1982 ad Tro. 1118-1164; Eur. Hec. 521-582; p020; Fantham 1982; Euripides Hecuba model",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1137,
+      "line_end": 1152
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 536,
+      "line_end": 558
+    }
+  },
+  {
+    "id": "m068",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "Tro. : mort de Polyxène et réaction rituelle.",
+    "source_scholar": "Fantham 1982 ad Tro. 1118-1164; Eur. Hec. 521-582; p020; Fantham 1982; Euripides Hecuba model",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 1153,
+      "line_end": 1164
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 559,
+      "line_end": 582
+    }
+  },
+  {
+    "id": "m069",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Tro. : annonce de la mort de Polyxène à Hécube ; réactivation du thrène maternel.",
+    "source_scholar": "Fantham 1982 ad Tro. 938-1008; p027",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 938,
+      "line_end": 960
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg007",
+      "line_start": 1,
+      "line_end": 30
+    }
+  },
+  {
+    "id": "m070",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : Antigone accompagne Œdipe aveugle, motif de la fille-guide.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 80-183; p021",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 80,
+      "line_end": 100
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg007",
+      "line_start": 1,
+      "line_end": 25
+    }
+  },
+  {
+    "id": "m071",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : dialogue d'Antigone et d'Œdipe sur l'exil et la survie.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 80-183; p021",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 111,
+      "line_end": 135
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg007",
+      "line_start": 41,
+      "line_end": 65
+    }
+  },
+  {
+    "id": "m072",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : persistance de la fille-guide et de l'aveugle hors de la cité.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 80-183; p021",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 154,
+      "line_end": 183
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg007",
+      "line_start": 81,
+      "line_end": 110
+    }
+  },
+  {
+    "id": "m073",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : conflit fraternel et refus d'Étéocle de céder le pouvoir.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 443-664; Eur. Phoen. 469-637; p022",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 443,
+      "line_end": 470
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg015",
+      "line_start": 469,
+      "line_end": 490
+    }
+  },
+  {
+    "id": "m074",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : argumentation politique sur le partage du trône.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 443-664; Eur. Phoen. 469-637; p022",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 501,
+      "line_end": 525
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg015",
+      "line_start": 526,
+      "line_end": 550
+    }
+  },
+  {
+    "id": "m075",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "Phoen. : échec de la médiation et radicalisation du conflit.",
+    "source_scholar": "Zwierlein 1986 ad Phoen. 443-664; Eur. Phoen. 469-637; p022",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi003",
+      "line_start": 561,
+      "line_end": 590
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg015",
+      "line_start": 586,
+      "line_end": 610
+    }
+  },
+  {
+    "id": "m076",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HO : Lichas annonce le retour d'Hercule et la présence d'Iole captive.",
+    "source_scholar": "Fitch 2004 ad HO 233-377; Soph. Trach.; p053",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 233,
+      "line_end": 260
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 225,
+      "line_end": 255
+    }
+  },
+  {
+    "id": "m077",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HO : Déjanire découvre Iole et la crise conjugale.",
+    "source_scholar": "Fitch 2004 ad HO 233-377; Soph. Trach.; p053",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 286,
+      "line_end": 310
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 291,
+      "line_end": 315
+    }
+  },
+  {
+    "id": "m078",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "HO : Déjanire délibère sur le philtre de Nessus.",
+    "source_scholar": "Fitch 2004 ad HO 378-582; Soph. Trach. 436-553; p054; Sophocles Trachiniae model; Loeb Hercules Oetaeus note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 378,
+      "line_end": 405
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 436,
+      "line_end": 460
+    }
+  },
+  {
+    "id": "m079",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "HO : décision fatale autour du vêtement empoisonné.",
+    "source_scholar": "Fitch 2004 ad HO 378-582; Soph. Trach. 436-553; p054; Sophocles Trachiniae model; Loeb Hercules Oetaeus note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 500,
+      "line_end": 520
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 531,
+      "line_end": 553
+    }
+  },
+  {
+    "id": "m080",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HO : Déjanire comprend la vérité et sa faute.",
+    "source_scholar": "Fitch 2004 ad HO 706-863; Soph. Trach. 663-750; p057",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 706,
+      "line_end": 735
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 663,
+      "line_end": 690
+    }
+  },
+  {
+    "id": "m081",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "HO : agonie d'Hercule empoisonné.",
+    "source_scholar": "Fitch 2004 ad HO 1131-1278; Soph. Trach. 750-820; p055; Sophocles Trachiniae model; Loeb Hercules Oetaeus note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 1131,
+      "line_end": 1155
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 750,
+      "line_end": 775
+    }
+  },
+  {
+    "id": "m082",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "HO : plainte corporelle d'Hercule et accusation contre Déjanire.",
+    "source_scholar": "Fitch 2004 ad HO 1131-1278; Soph. Trach. 750-820; p055; Sophocles Trachiniae model; Loeb Hercules Oetaeus note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 1171,
+      "line_end": 1195
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 791,
+      "line_end": 810
+    }
+  },
+  {
+    "id": "m083",
+    "label": 3,
+    "label_name": "emprunt_direct",
+    "note": "HO : volonté du bûcher sur l'Oeta.",
+    "source_scholar": "Fitch 2004 ad HO 1472-1517; Soph. Trach. 1185-1229; p056; Sophocles Trachiniae model; Loeb Hercules Oetaeus note",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 1472,
+      "line_end": 1495
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 1185,
+      "line_end": 1210
+    }
+  },
+  {
+    "id": "m084",
+    "label": 2,
+    "label_name": "reminiscence",
+    "note": "HO : mort de Déjanire et lamentation du fils.",
+    "source_scholar": "Fitch 2004 ad HO 1863-1940; Soph. Trach. 871-946; p058",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 1863,
+      "line_end": 1885
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg001",
+      "line_start": 871,
+      "line_end": 895
+    }
+  },
+  {
+    "id": "m085",
     "label": 1,
     "label_name": "topos_commun",
-    "note": "Topos du chœur consolateur — consolatio face au deuil collectif",
-    "source_scholar": "topos tragique générique",
+    "note": "Topos du tyran corrupteur et du pouvoir illégitime : Lycus / Créon.",
+    "source_scholar": "topos tragique générique; p036",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 251,
+      "line_end": 270
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg003",
+      "line_start": 271,
+      "line_end": 285
+    }
+  },
+  {
+    "id": "m086",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos du destin inévitable et de la nécessité.",
+    "source_scholar": "topos tragique générique; p037",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi005",
+      "line_start": 978,
+      "line_end": 990
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 1102,
+      "line_end": 1120
+    }
+  },
+  {
+    "id": "m087",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos de la femme abandonnée, deuil amoureux et trahison.",
+    "source_scholar": "topos tragique générique; p038",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 116,
+      "line_end": 135
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg006",
+      "line_start": 1,
+      "line_end": 20
+    }
+  },
+  {
+    "id": "m088",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos du chœur consolateur face au deuil collectif.",
+    "source_scholar": "topos tragique générique; p040",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi002",
       "line_start": 67,
-      "line_end": 163
+      "line_end": 85
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg007",
       "line_start": 444,
-      "line_end": 484
+      "line_end": 465
     }
   },
   {
-    "id": "p041",
+    "id": "m089",
     "label": 1,
     "label_name": "topos_commun",
-    "note": "Topos de l'hybris punie — roi superbe renversé par les dieux",
-    "source_scholar": "topos tragique générique",
+    "note": "Topos de l'hybris punie et du grand renversé.",
+    "source_scholar": "topos tragique générique; p041",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
       "line_start": 623,
-      "line_end": 788
+      "line_end": 640
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg005",
       "line_start": 369,
-      "line_end": 402
+      "line_end": 390
     }
   },
   {
-    "id": "p042",
+    "id": "m090",
     "label": 1,
     "label_name": "topos_commun",
-    "note": "Topos de la malédiction familiale héréditaire — transmission du crime",
-    "source_scholar": "topos des Atrides",
+    "note": "Topos de la malédiction familiale héréditaire.",
+    "source_scholar": "topos des Atrides; p042",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi007",
       "line_start": 1,
-      "line_end": 56
+      "line_end": 25
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg006",
       "line_start": 503,
-      "line_end": 584
+      "line_end": 520
     }
   },
   {
-    "id": "p043",
+    "id": "m091",
     "label": 1,
     "label_name": "topos_commun",
-    "note": "Topos de la mort préférable à la servitude — Polyxène / femmes troyennes",
-    "source_scholar": "topos tragique générique",
+    "note": "Topos de la mort préférable à la servitude.",
+    "source_scholar": "topos tragique générique; p043",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi002",
       "line_start": 938,
-      "line_end": 1008
+      "line_end": 955
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg007",
       "line_start": 342,
-      "line_end": 378
+      "line_end": 360
     }
   },
   {
-    "id": "p044",
+    "id": "m092",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos de l'exil volontaire préféré à la honte.",
+    "source_scholar": "topos héroïque générique; p074",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi009",
+      "line_start": 1940,
+      "line_end": 1960
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg006",
+      "line_start": 1,
+      "line_end": 25
+    }
+  },
+  {
+    "id": "m093",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos de la supplication aux dieux au seuil de la catastrophe.",
+    "source_scholar": "topos tragique générique; p075",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 110,
+      "line_end": 130
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg001",
+      "line_start": 1,
+      "line_end": 20
+    }
+  },
+  {
+    "id": "m094",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos du roi juste face au roi tyrannique.",
+    "source_scholar": "topos tragique générique; p076",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi008",
+      "line_start": 204,
+      "line_end": 230
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg002",
+      "line_start": 162,
+      "line_end": 190
+    }
+  },
+  {
+    "id": "m095",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos de la femme vengeresse : proximité de rôle, mais pas de relation locale forte.",
+    "source_scholar": "hard/limit case; p084 adapté",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 893,
+      "line_end": 910
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg012",
+      "line_start": 1,
+      "line_end": 25
+    }
+  },
+  {
+    "id": "m096",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Topos de la folie tragique : proximité thématique, mais pas de relation intertextuelle locale.",
+    "source_scholar": "hard/limit case; p083 adapté",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 939,
+      "line_end": 952
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg016",
+      "line_start": 316,
+      "line_end": 330
+    }
+  },
+  {
+    "id": "m097",
     "label": 0,
     "label_name": "negatif",
-    "note": "Faux positif identifié : structure impérative courte sans lien thématique (Médée ↔ OC)",
-    "source_scholar": "session d'analyse v2",
+    "note": "Faux positif : structure impérative courte sans lien thématique réel.",
+    "source_scholar": "session d'analyse v2; p044",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
@@ -836,11 +1843,11 @@
     }
   },
   {
-    "id": "p045",
+    "id": "m098",
     "label": 0,
     "label_name": "negatif",
-    "note": "Faux positif : champ lexical de la peur partagé sans rapport contextuel",
-    "source_scholar": "session d'analyse v2",
+    "note": "Faux positif : champ lexical de la peur partagé sans rapport contextuel.",
+    "source_scholar": "session d'analyse v2; p045",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi009",
@@ -855,11 +1862,11 @@
     }
   },
   {
-    "id": "p046",
+    "id": "m099",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : passage métaphysique de Sénèque contre scène comique du Cyclope",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : passage métaphysique de Thyestes contre scène comique du Cyclope.",
+    "source_scholar": "négatif contrôlé; p046",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
@@ -870,805 +1877,406 @@
       "tlg_author": "tlg0006",
       "work_id": "tlg001",
       "line_start": 1,
-      "line_end": 40
+      "line_end": 20
     }
   },
   {
-    "id": "p047",
+    "id": "m100",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : Thyestes contre chœur cosmologique d'Hélène",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : discours politique de Thyestes contre chœur cosmologique d'Hélène.",
+    "source_scholar": "négatif contrôlé; p047",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
       "line_start": 404,
-      "line_end": 430
+      "line_end": 420
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg014",
       "line_start": 1107,
-      "line_end": 1164
+      "line_end": 1125
     }
   },
   {
-    "id": "p048",
+    "id": "m101",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : Cassandre (Sen. Ag.) contre scène d'Alceste",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Cassandre prophétique contre ouverture pastorale d'Alceste.",
+    "source_scholar": "négatif contrôlé; p048",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi007",
       "line_start": 720,
-      "line_end": 774
+      "line_end": 739
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg002",
       "line_start": 1,
-      "line_end": 76
+      "line_end": 20
     }
   },
   {
-    "id": "p049",
+    "id": "m102",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : Médée invoquant les dieux infernaux contre Prométhée enchaîné",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Médée magicienne contre tirade de Prométhée ; proximité infernale superficielle.",
+    "source_scholar": "négatif contrôlé; p049",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
       "line_start": 740,
-      "line_end": 786
+      "line_end": 755
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg003",
       "line_start": 199,
-      "line_end": 241
+      "line_end": 215
     }
   },
   {
-    "id": "p050",
+    "id": "m103",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : chœur cosmologique de Phèdre contre scène des Choéphores",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : chœur cosmologique de Phèdre contre reconnaissance des Choéphores.",
+    "source_scholar": "négatif contrôlé; p050",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
       "line_start": 764,
-      "line_end": 834
+      "line_end": 790
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg006",
       "line_start": 164,
-      "line_end": 245
+      "line_end": 190
     }
   },
   {
-    "id": "p051",
+    "id": "m104",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : monologue de Thyestes contre chœur des Bacchantes",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Thyeste après le banquet contre chœur des Bacchantes.",
+    "source_scholar": "négatif contrôlé; p051",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
       "line_start": 920,
-      "line_end": 969
+      "line_end": 940
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg017",
       "line_start": 64,
-      "line_end": 169
+      "line_end": 90
     }
   },
   {
-    "id": "p052",
+    "id": "m105",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif délibéré : Œdipe aveugle contre scène des Suppliantes d'Euripide",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Œdipe aveugle contre ouverture des Suppliantes.",
+    "source_scholar": "négatif contrôlé; p052",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi006",
       "line_start": 999,
-      "line_end": 1051
+      "line_end": 1020
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg008",
       "line_start": 1,
-      "line_end": 87
+      "line_end": 25
     }
   },
   {
-    "id": "p053",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "HO : Déjanire apprend le retour d'Hercule avec Iole — cf. Soph. Trach. : Lichas annonce le retour et Iole captive",
-    "source_scholar": "Fitch 2004 ad HO 233-377",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 233,
-      "line_end": 377
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 225,
-      "line_end": 334
-    }
-  },
-  {
-    "id": "p054",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Déjanire délibère sur le philtre — même oscillation entre amour et jalousie, même décision fatale",
-    "source_scholar": "Fitch 2004 ad HO 378-582",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 378,
-      "line_end": 582
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 436,
-      "line_end": 553
-    }
-  },
-  {
-    "id": "p055",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Agonie d'Hercule empoisonné — récit de la douleur physique, invectives contre Déjanire",
-    "source_scholar": "Fitch 2004 ad HO 1131-1278",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 1131,
-      "line_end": 1278
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 750,
-      "line_end": 820
-    }
-  },
-  {
-    "id": "p056",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Hercule exige le bûcher sur l'Oeta — même volonté héroïque de contrôler sa mort",
-    "source_scholar": "Fitch 2004 ad HO 1472-1517",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 1472,
-      "line_end": 1517
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 1185,
-      "line_end": 1229
-    }
-  },
-  {
-    "id": "p057",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Déjanire apprend la vérité sur Iole et prend conscience de sa faute — désespoir",
-    "source_scholar": "Fitch 2004 ad HO 706-863",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 706,
-      "line_end": 863
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 663,
-      "line_end": 750
-    }
-  },
-  {
-    "id": "p058",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Mort de Déjanire — suicide, lamentation de Hyllus (→ Philoctète chez Sen.)",
-    "source_scholar": "Fitch 2004 ad HO 1863-1940",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 1863,
-      "line_end": 1940
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 871,
-      "line_end": 946
-    }
-  },
-  {
-    "id": "p059",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Phèdre en délire — la nourrice tire le secret de Phèdre, même structure de la confidence arrachée",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 362-430",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi005",
-      "line_start": 362,
-      "line_end": 430
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg005",
-      "line_start": 268,
-      "line_end": 361
-    }
-  },
-  {
-    "id": "p060",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Hippolyte répudie la femme en général — misogynie déclaratoire, même structure rhétorique",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 558-573",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi005",
-      "line_start": 558,
-      "line_end": 573
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg005",
-      "line_start": 616,
-      "line_end": 650
-    }
-  },
-  {
-    "id": "p061",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Electre apparaît et se lamente — scène de thrênos épitumbios, même positionnement après l'annonce du meurtre",
-    "source_scholar": "Tarrant 1976 ad Ag. 589-658",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi007",
-      "line_start": 589,
-      "line_end": 658
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg006",
-      "line_start": 84,
-      "line_end": 164
-    }
-  },
-  {
-    "id": "p062",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Cassandre entre dans le palais après sa scène prophétique — même résignation fatale",
-    "source_scholar": "Tarrant 1976 ad Ag. 867-909",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi007",
-      "line_start": 867,
-      "line_end": 909
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg005",
-      "line_start": 1300,
-      "line_end": 1330
-    }
-  },
-  {
-    "id": "p063",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Médée face au chœur qui tente de la raisonner — même registre de la femme incomprise",
-    "source_scholar": "Costa 1973 ad Med. 116-178",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi004",
-      "line_start": 116,
-      "line_end": 150
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg003",
-      "line_start": 214,
-      "line_end": 266
-    }
-  },
-  {
-    "id": "p064",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Médée prépare le philtre magique — incantation, inventaire des herbes",
-    "source_scholar": "Costa 1973 ad Med. 740-842",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi004",
-      "line_start": 740,
-      "line_end": 842
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg003",
-      "line_start": 764,
-      "line_end": 810
-    }
-  },
-  {
-    "id": "p065",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Ouverture : Œdipe exprime sa terreur de la peste — même détresse royale face à la catastrophe collective",
-    "source_scholar": "Töchterle 1994 ad Oed. 1-109",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi006",
-      "line_start": 1,
-      "line_end": 109
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg004",
-      "line_start": 1,
-      "line_end": 150
-    }
-  },
-  {
-    "id": "p066",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Créon revient de Delphes et rapporte l'oracle — même structure du récit oraculaire ambigu",
-    "source_scholar": "Töchterle 1994 ad Oed. 202-278",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi006",
-      "line_start": 202,
-      "line_end": 278
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg004",
-      "line_start": 78,
-      "line_end": 150
-    }
-  },
-  {
-    "id": "p067",
-    "label": 3,
-    "label_name": "emprunt_direct",
-    "note": "Andromaque et Ulysse : débat sur le sort d'Astyanax — même rhétorique de la supplication",
-    "source_scholar": "Fantham 1982 ad Tro. 524-813",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi002",
-      "line_start": 524,
-      "line_end": 705
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg011",
-      "line_start": 709,
-      "line_end": 798
-    }
-  },
-  {
-    "id": "p068",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "HO : chœur sur les limites de la puissance humaine — topos de l'élévation périlleuse, proche de l'Hippolyte",
-    "source_scholar": "Fitch 2004 ad HO 583-705",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 583,
-      "line_end": 705
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg005",
-      "line_start": 525,
-      "line_end": 564
-    }
-  },
-  {
-    "id": "p069",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Thyestes : lamentation après le festin — registre du thrênos, même sentiment d'horreur découverte",
-    "source_scholar": "Tarrant 1985 ad Thy. 970-1068",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi008",
-      "line_start": 970,
-      "line_end": 1068
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg004",
-      "line_start": 1002,
-      "line_end": 1067
-    }
-  },
-  {
-    "id": "p070",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Médée invoque Hécate — même structure de la grande prière aux puissances nocturnes",
-    "source_scholar": "Costa 1973 ad Med. 6-55",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi004",
-      "line_start": 6,
-      "line_end": 55
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg003",
-      "line_start": 395,
-      "line_end": 445
-    }
-  },
-  {
-    "id": "p071",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Agamemnon : chœur sur la chute de Troie — même inventaire du désastre, même registre épique",
-    "source_scholar": "Tarrant 1976 ad Ag. 618-658",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi007",
-      "line_start": 618,
-      "line_end": 658
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg011",
-      "line_start": 511,
-      "line_end": 567
-    }
-  },
-  {
-    "id": "p072",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Sophonias dans les Trachiniennes — Iole silencieuse comme la captive tragique par excellence",
-    "source_scholar": "Fitch 2004",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 103,
-      "line_end": 233
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg001",
-      "line_start": 307,
-      "line_end": 435
-    }
-  },
-  {
-    "id": "p073",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Phèdre mourante accuse Hippolyte — même fausse accusation, même structure de la calomnie posthume",
-    "source_scholar": "Coffey & Mayer 1990 ad Phae. 719-835",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi005",
-      "line_start": 719,
-      "line_end": 835
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg005",
-      "line_start": 776,
-      "line_end": 880
-    }
-  },
-  {
-    "id": "p074",
-    "label": 1,
-    "label_name": "topos_commun",
-    "note": "Topos de l'exil volontaire préféré à la honte — Hercule / Philoctète",
-    "source_scholar": "topos héroïque générique",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi009",
-      "line_start": 1940,
-      "line_end": 1996
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg006",
-      "line_start": 1,
-      "line_end": 69
-    }
-  },
-  {
-    "id": "p075",
-    "label": 1,
-    "label_name": "topos_commun",
-    "note": "Topos de la supplication aux dieux — invocation au seuil de la catastrophe",
-    "source_scholar": "topos tragique générique",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi006",
-      "line_start": 110,
-      "line_end": 202
-    },
-    "greek": {
-      "tlg_author": "tlg0085",
-      "work_id": "tlg001",
-      "line_start": 1,
-      "line_end": 82
-    }
-  },
-  {
-    "id": "p076",
-    "label": 1,
-    "label_name": "topos_commun",
-    "note": "Topos du roi juste face au roi tyrannique — rhétorique de la légitimité du pouvoir",
-    "source_scholar": "topos tragique générique",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi008",
-      "line_start": 204,
-      "line_end": 335
-    },
-    "greek": {
-      "tlg_author": "tlg0011",
-      "work_id": "tlg002",
-      "line_start": 162,
-      "line_end": 222
-    }
-  },
-  {
-    "id": "p077",
+    "id": "m106",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Hercule triomphant (HO ouverture) vs chœur civique des Perses — contextes historico-militaires incompatibles",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : HO triomphal contre chœur civique des Perses.",
+    "source_scholar": "négatif contrôlé; p077",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi009",
       "line_start": 1,
-      "line_end": 103
+      "line_end": 25
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg002",
       "line_start": 1,
-      "line_end": 64
+      "line_end": 25
     }
   },
   {
-    "id": "p078",
+    "id": "m107",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Médée magicienne vs Antigone pleurant Polynice — univers thématiques sans rapport",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Médée magicienne contre Antigone pleurant Polynice.",
+    "source_scholar": "négatif contrôlé; p078",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
       "line_start": 380,
-      "line_end": 430
+      "line_end": 405
     },
     "greek": {
       "tlg_author": "tlg0011",
       "work_id": "tlg002",
       "line_start": 891,
-      "line_end": 943
+      "line_end": 915
     }
   },
   {
-    "id": "p079",
+    "id": "m108",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : chœur de Phèdre sur la chasse vs Philoctète sur son île — registres et situations sans lien",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : scène de chasse de Phèdre contre Philoctète isolé sur son île.",
+    "source_scholar": "négatif contrôlé; p079",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
       "line_start": 1,
-      "line_end": 84
+      "line_end": 25
     },
     "greek": {
       "tlg_author": "tlg0011",
       "work_id": "tlg006",
       "line_start": 936,
-      "line_end": 1080
+      "line_end": 960
     }
   },
   {
-    "id": "p080",
+    "id": "m109",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Œdipe aveugle vs scène de reconnaissance de l'Electre de Sophocle — registres incompatibles",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Œdipe après révélation contre reconnaissance d'Électre.",
+    "source_scholar": "négatif contrôlé; p080",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi006",
       "line_start": 882,
-      "line_end": 994
+      "line_end": 905
     },
     "greek": {
       "tlg_author": "tlg0011",
       "work_id": "tlg005",
       "line_start": 1098,
-      "line_end": 1231
+      "line_end": 1115
     }
   },
   {
-    "id": "p081",
+    "id": "m110",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Thyestes au banquet vs chœur de l'Ajax sur la gloire guerrière — incompatibles",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Thyestes au banquet contre chœur d'Ajax sur la gloire guerrière.",
+    "source_scholar": "négatif contrôlé; p081",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
       "line_start": 920,
-      "line_end": 969
+      "line_end": 940
     },
     "greek": {
       "tlg_author": "tlg0011",
       "work_id": "tlg003",
       "line_start": 1185,
-      "line_end": 1222
+      "line_end": 1205
     }
   },
   {
-    "id": "p082",
+    "id": "m111",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Agamemnon (Sen.) arrive et parle vs Erinyes dans les Euménides — univers complètement différents",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Agamemnon sénécanéen contre ouverture des Euménides.",
+    "source_scholar": "négatif contrôlé; p082",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi007",
       "line_start": 782,
-      "line_end": 867
+      "line_end": 800
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg007",
       "line_start": 1,
-      "line_end": 63
+      "line_end": 25
     }
   },
   {
-    "id": "p083",
+    "id": "m112",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Hercule furieux (HF) vs chœur de l'Oreste sur la folie — fausse proximité thématique",
-    "source_scholar": "négatif généré",
-    "latin": {
-      "author_id": "phi1017",
-      "work_id": "phi001",
-      "line_start": 939,
-      "line_end": 1053
-    },
-    "greek": {
-      "tlg_author": "tlg0006",
-      "work_id": "tlg016",
-      "line_start": 316,
-      "line_end": 347
-    }
-  },
-  {
-    "id": "p084",
-    "label": 0,
-    "label_name": "negatif",
-    "note": "Négatif : Médée vs Electre (Eur.) — deux femmes vengeresses mais aucun lien textuel entre ces passages",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : Médée infanticide contre Électre euripidéenne, proximité féminine vengeresse mais pas locale.",
+    "source_scholar": "négatif contrôlé; p084",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
-      "line_start": 893,
-      "line_end": 977
+      "line_start": 945,
+      "line_end": 960
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg012",
       "line_start": 1,
-      "line_end": 53
+      "line_end": 25
     }
   },
   {
-    "id": "p085",
+    "id": "m113",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Troades (Sen.) chœur nautique vs Iphigénie Aulidensis (ouverture) — incompatibles",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : chœur nautique de Troades contre ouverture d'Iphigénie à Aulis.",
+    "source_scholar": "négatif contrôlé; p085",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi002",
       "line_start": 814,
-      "line_end": 860
+      "line_end": 840
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg018",
       "line_start": 1,
-      "line_end": 48
+      "line_end": 25
     }
   },
   {
-    "id": "p086",
+    "id": "m114",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Septem (Eschyle) chœur militaire vs Phèdre (Sen.) scène d'amour — registres incompatibles",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : scène d'amour de Phèdre contre chœur militaire des Sept contre Thèbes.",
+    "source_scholar": "négatif contrôlé; p086",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi005",
       "line_start": 600,
-      "line_end": 668
+      "line_end": 616
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg004",
       "line_start": 78,
-      "line_end": 180
+      "line_end": 100
     }
   },
   {
-    "id": "p087",
+    "id": "m115",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : HO agonie d'Hercule vs Hécube (Eur.) prologue du fantôme de Polydore — sans rapport",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : agonie d'Hercule contre prologue du fantôme de Polydore.",
+    "source_scholar": "négatif contrôlé; p087",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi009",
       "line_start": 1131,
-      "line_end": 1250
+      "line_end": 1150
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg007",
       "line_start": 1,
-      "line_end": 58
+      "line_end": 30
     }
   },
   {
-    "id": "p088",
+    "id": "m116",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif : Thyestes (Sen.) chœur stoïcien sur la retraite vs Rhésus (Eur.) scène de combat — incompatibles",
-    "source_scholar": "négatif généré",
+    "note": "Négatif : chœur stoïcien de Thyestes sur la retraite contre scène de combat du Rhésus.",
+    "source_scholar": "négatif contrôlé; p088",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
       "line_start": 336,
-      "line_end": 403
+      "line_end": 365
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg019",
       "line_start": 1,
-      "line_end": 51
+      "line_end": 30
+    }
+  },
+  {
+    "id": "m117",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative : deux ouvertures féminines de détresse, mais contextes mythiques et fonctions dramaturgiques incompatibles.",
+    "source_scholar": "hard negative contrôlé; prudence méthodologique inspirée de Tarrant 1978",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 1,
+      "line_end": 18
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 1,
+      "line_end": 20
+    }
+  },
+  {
+    "id": "m118",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative : deux lamentations royales, mais pas de dépendance locale.",
+    "source_scholar": "hard negative contrôlé",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 67,
+      "line_end": 85
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg002",
+      "line_start": 65,
+      "line_end": 85
+    }
+  },
+  {
+    "id": "m119",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative : deux récits de catastrophe, mais relation textuelle non locale et générique.",
+    "source_scholar": "hard negative contrôlé",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi007",
+      "line_start": 421,
+      "line_end": 445
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg011",
+      "line_start": 1123,
+      "line_end": 1145
+    }
+  },
+  {
+    "id": "m120",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative : deux scènes de mantique, mais dispositif et enjeux distincts.",
+    "source_scholar": "hard negative contrôlé",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 291,
+      "line_end": 315
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg003",
+      "line_start": 484,
+      "line_end": 505
     }
   }
 ]
