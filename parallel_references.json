@@ -440,12 +440,12 @@
     "id": "m024",
     "label": 3,
     "label_name": "emprunt_direct",
-    "note": "Med. : confrontation finale au-dessus de la scène / verticalité du char ou du toit.",
+    "note": "Med. : confrontation finale au-dessus de la scène ; noyau local de la fuite verticale de Médée et du char solaire.",
     "source_scholar": "Costa 1973 ad Med. 988-1027; p009; Costa 1973; Battistella & Nelis 2017",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi004",
-      "line_start": 1005,
+      "line_start": 1020,
       "line_end": 1027
     },
     "greek": {
@@ -668,7 +668,7 @@
     "id": "m036",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Phae. : fausse accusation et calomnie posthume.",
+    "note": "Phae. : calomnie contre Hippolyte ; chez Sénèque l'accusation est fabriquée aussitôt après la fuite, chez Euripide elle passe par la lettre posthume de Phèdre.",
     "source_scholar": "Coffey & Mayer 1990 ad Phae. 719-835; p073",
     "latin": {
       "author_id": "phi1017",
@@ -679,8 +679,8 @@
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg005",
-      "line_start": 776,
-      "line_end": 805
+      "line_start": 856,
+      "line_end": 886
     }
   },
   {
@@ -704,9 +704,9 @@
   },
   {
     "id": "m038",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Ag. : début du récit de tempête au retour de Troie.",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Ag. : préambule de récit de retour de Troie ; proximité de fonction avec l'entrée du messager, mais le vrai noyau de tempête/naufrage est plutôt m039.",
     "source_scholar": "Tarrant 1976 ad Ag. 421-578; p015",
     "latin": {
       "author_id": "phi1017",
@@ -763,7 +763,7 @@
     "id": "m041",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Ag. : entrée prophétique de Cassandre, invocation à Apollon. Parallèle cassandréen fort, mais Sénèque déplace et amplifie la scène.",
+    "note": "Ag. : entrée prophétique de Cassandre et invocation à Apollon ; parallèle cassandréen net, mais Sénèque condense et réoriente la scène.",
     "source_scholar": "Tarrant 1976 ad Ag. 720-867; p014",
     "latin": {
       "author_id": "phi1017",
@@ -782,7 +782,7 @@
     "id": "m042",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Ag. : vision de la maison des Atrides et des crimes anciens. Parallèle cassandréen fort, mais Sénèque déplace et amplifie la scène.",
+    "note": "Ag. : vision cassandréenne de la maison des Atrides et des crimes anciens ; parallèle de dispositif prophétique plutôt que reprise verbale locale.",
     "source_scholar": "Tarrant 1976 ad Ag. 720-867; p014",
     "latin": {
       "author_id": "phi1017",
@@ -801,27 +801,27 @@
     "id": "m043",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Ag. : images du piège, de l'abattage et du meurtre à venir. Parallèle cassandréen fort, mais Sénèque déplace et amplifie la scène.",
+    "note": "Ag. : image du piège textile et de la mise à mort d'Agamemnon ; noyau local resserré sur le vêtement/rets qui immobilise la victime.",
     "source_scholar": "Tarrant 1976 ad Ag. 720-867; p014",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi007",
-      "line_start": 780,
-      "line_end": 797
+      "line_start": 887,
+      "line_end": 890
     },
     "greek": {
       "tlg_author": "tlg0085",
       "work_id": "tlg005",
       "line_start": 1125,
-      "line_end": 1145
+      "line_end": 1135
     }
   },
   {
     "id": "m044",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Ag. : fin de la scène de Cassandre et entrée vers la mort ; parallèle dramaturgique fort, mais Sénèque déplace vers la vision/récit du meurtre accompli.",
-    "source_scholar": "Tarrant 1976 ad Ag. 867-909; p062",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Ag. : clôture de la scène cassandréenne et entrée vers la mort ; parallèle de position dramatique, mais contenu localement divergent.",
+    "source_scholar": "Tarrant 1976 ad Ag. 867-909; p062; rétrogradé en topos de clôture cassandréenne",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi007",
@@ -837,9 +837,9 @@
   },
   {
     "id": "m045",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Ag. : lamentation d'Électre sur la tombe d'Agamemnon.",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Ag. : lamentation autour de la maison d'Agamemnon ; rapprochement seulement topique avec le deuil initial des Choéphores.",
     "source_scholar": "Tarrant 1976 ad Ag. 669-719; p028",
     "latin": {
       "author_id": "phi1017",
@@ -856,9 +856,9 @@
   },
   {
     "id": "m046",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Ag. : thrène d'Électre et mémoire du père.",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Ag. : Cassandre évoque ses pertes et la ruine troyenne avant l'accès prophétique ; proximité très lâche avec le deuil des Choéphores, non un parallèle local d'Électre.",
     "source_scholar": "Tarrant 1976 ad Ag. 669-719; p028",
     "latin": {
       "author_id": "phi1017",
@@ -875,9 +875,9 @@
   },
   {
     "id": "m047",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Ag. : apparition/lamentation d'Électre, parallèle de position dramatique avec les Choéphores.",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Ag. : méditation sur la mort comme délivrance et mémoire de la chute de Troie ; simple voisinage funèbre avec les Choéphores, sans alignement local strict.",
     "source_scholar": "Tarrant 1976 ad Ag. 589-658; p061",
     "latin": {
       "author_id": "phi1017",
@@ -932,9 +932,9 @@
   },
   {
     "id": "m050",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Oed. : appel à Tirésias comme détenteur du savoir mantic.",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Oed. : atmosphère mantique et savoir prophétique ; le passage latin rapporte la consultation delphique, alors que le grec ouvre l'appel à Tirésias. Proximité fonctionnelle seulement.",
     "source_scholar": "Töchterle 1994 ad Oed. 223-402; prudence : commentaire OUP souligne l'invention sénécanéenne de la scène",
     "latin": {
       "author_id": "phi1017",
@@ -1046,10 +1046,10 @@
   },
   {
     "id": "m056",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Oed. : refus de vivre après la révélation, auto-exclusion et exil.",
-    "source_scholar": "Töchterle 1994 ad Oed. 882-994; p034",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Négatif contrôlé : chœur sénécanéen sur la voie moyenne et l'exemple de Dédale/Icare face à l'auto-justification sophocléenne de l'aveuglement d'Œdipe ; proximité morale très générale, pas d'intertexte local.",
+    "source_scholar": "négatif contrôlé à partir de Töchterle 1994 ad Oed. 882-994; Soph. OT 1369-1390",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi006",
@@ -2283,12 +2283,12 @@
     "id": "m121",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Thy. : Atreus construit la capture de Thyeste par dolus/fraus ; rapprochement avec l'imagerie eschyléenne du piège et de la toile autour de Clytemnestre. Signal intertextuel critique, mais non scène identique.",
+    "note": "Thy. : Atreus formule le piège qui doit attirer Thyeste ; rapprochement critique avec l'imagerie eschyléenne du rets et de la toile, mais non scène identique.",
     "source_scholar": "Brook 2019; CAMWS 2018, 'Influence of Aeschylus' Agamemnon on Seneca's Thyestes' : Sen. Thy. 286, 316-321 / Aesch. Ag. 1491-1520",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi008",
-      "line_start": 286,
+      "line_start": 316,
       "line_end": 321
     },
     "greek": {
@@ -2302,7 +2302,7 @@
     "id": "m122",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Thy. : fausse réconciliation et appel à l'embrassement ; parallèle avec l'accueil affectueux et équivoque de Clytemnestre à Agamemnon.",
+    "note": "Thy. : fausse réconciliation et langage affectueux trompeur ; parallèle avec l'accueil équivoque de Clytemnestre à Agamemnon.",
     "source_scholar": "CAMWS 2018 : Sen. Thy. 508-511 / Aesch. Ag. 890-913; Tarrant 1985 ad loc.",
     "latin": {
       "author_id": "phi1017",
@@ -2321,7 +2321,7 @@
     "id": "m123",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Thy. : Thyeste comme victime prise dans les rets/plagae ; parallèle critique avec le filet meurtrier de Clytemnestre.",
+    "note": "Thy. : Thyeste déjà pris dans les plagae comme une proie ; parallèle critique avec le filet meurtrier de Clytemnestre.",
     "source_scholar": "CAMWS 2018 : Sen. Thy. 491-503 / Aesch. Ag. 1381-1387 et 1491-1520; Brook 2019",
     "latin": {
       "author_id": "phi1017",
@@ -2340,7 +2340,7 @@
     "id": "m124",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Thy. : double langage d'Atreus autour de vincla/victimae ; parallèle avec le langage ambigu de Clytemnestre sur le retour d'Agamemnon et la justice.",
+    "note": "Thy. : double langage d'Atreus autour de vincla/victimae ; parallèle avec l'ambiguïté de Clytemnestre lors de l'accueil d'Agamemnon.",
     "source_scholar": "CAMWS 2018 : Sen. Thy. 545-546 / Aesch. Ag. 910-913",
     "latin": {
       "author_id": "phi1017",
@@ -2359,7 +2359,7 @@
     "id": "m125",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Thy. : meurtre des enfants comme sacrifice inversé ; rapprochement avec la mise à mort d'Iphigénie comme offrande sacrificielle dans l'Agamemnon.",
+    "note": "Thy. : meurtre des enfants comme sacrifice inversé ; rapprochement avec la mise à mort d'Iphigénie comme offrande sacrificielle.",
     "source_scholar": "CAMWS 2018 : Sen. Thy. 682-691 / Aesch. Ag. 224-247; Fowler 1991; Tarrant 1985",
     "latin": {
       "author_id": "phi1017",
@@ -2376,9 +2376,9 @@
   },
   {
     "id": "m126",
-    "label": 2,
-    "label_name": "reminiscence",
-    "note": "Thy. : vocabulaire sacrificiel appliqué aux fils de Thyeste, hostiae/victimae et Atreus sacerdos ; parallèle avec la logique sacrificielle d'Iphigénie.",
+    "label": 1,
+    "label_name": "topos_commun",
+    "note": "Thy. : vocabulaire sacrificiel appliqué aux corps des fils de Thyeste ; parallèle surtout topique avec la logique sacrificielle d'Iphigénie, moins spécifique que m125.",
     "source_scholar": "CAMWS 2018 : Sen. Thy. 759 et 682-691 / Aesch. Ag. 224-247; Tarrant 1985",
     "latin": {
       "author_id": "phi1017",
@@ -2454,7 +2454,7 @@
     "id": "m130",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Tro. : pseudo-mariage avec Pyrrhus/Achille comme masque du sacrifice ; parallèle critique avec Iphigénie attirée à Aulis par la promesse d'un mariage avec Achille.",
+    "note": "Tro. : faux mariage avec Pyrrhus/Achille comme masque du sacrifice ; parallèle avec le leurre nuptial d'Iphigénie à Aulis.",
     "source_scholar": "Frangoulidis 2018, 'Euripides' Iphigenia at Aulis and Seneca's Troades'; Kovacs 2010 sur Iphigénie/Polyxène et les liens quasi matrimoniaux avec Achille",
     "latin": {
       "author_id": "phi1017",
@@ -2465,8 +2465,8 @@
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg018",
-      "line_start": 676,
-      "line_end": 741
+      "line_start": 685,
+      "line_end": 720
     }
   },
   {
@@ -2484,7 +2484,7 @@
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg018",
-      "line_start": 1368,
+      "line_start": 1375,
       "line_end": 1401
     }
   },
@@ -2497,7 +2497,7 @@
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi002",
-      "line_start": 1118,
+      "line_start": 1129,
       "line_end": 1164
     },
     "greek": {
@@ -2549,19 +2549,19 @@
     "id": "m135",
     "label": 2,
     "label_name": "reminiscence",
-    "note": "Phoen. : Jocaste médiatrice face à la guerre civile des fils ; parallèle avec la Jocaste d'Euripide dans la scène agonistique des Phéniciennes.",
+    "note": "Phoen. : Jocaste médiatrice tente d'interrompre la guerre civile et de rétablir l'écoute entre Étéocle et Polynice ; parallèle avec la Jocaste d'Euripide dans la scène agonistique des Phéniciennes.",
     "source_scholar": "Zwierlein 1986 ad Phoen. 443-664; Ginsberg 2015; Eur. Phoen. 446-525",
     "latin": {
       "author_id": "phi1017",
       "work_id": "phi003",
-      "line_start": 319,
-      "line_end": 362
+      "line_start": 443,
+      "line_end": 485
     },
     "greek": {
       "tlg_author": "tlg0006",
       "work_id": "tlg015",
       "line_start": 446,
-      "line_end": 525
+      "line_end": 470
     }
   },
   {
@@ -2606,7 +2606,7 @@
     "id": "m138",
     "label": 0,
     "label_name": "negatif",
-    "note": "Négatif contrôlé : deux scènes de sacrifice féminin autour de la guerre de Troie, mais Polyxène chez Sénèque est déjà prisonnière troyenne, alors qu'Iphigénie est victime d'un stratagème familial grec ; proximité mythique sans alignement local strict.",
+    "note": "Négatif contrôlé : deux scènes de sacrifice féminin autour de la guerre de Troie, mais la situation dramatique n'est pas alignée localement ; proximité mythique/sacrificielle seulement.",
     "source_scholar": "Hard negative construit à partir de Frangoulidis 2018 et Kovacs 2010",
     "latin": {
       "author_id": "phi1017",
@@ -2619,6 +2619,196 @@
       "work_id": "tlg018",
       "line_start": 1120,
       "line_end": 1140
+    }
+  },
+  {
+    "id": "m139",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : requête/prière impérative et lexique de supplication, mais aucun alignement intertextuel local entre Jason suppliant Médée et Créon suppliant Hémon.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Med. 1014-1015 ; Soph. Ant. 1230",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 1014,
+      "line_end": 1015
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg002",
+      "line_start": 1230,
+      "line_end": 1230
+    }
+  },
+  {
+    "id": "m140",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : impératifs et mouvement vers l’intérieur, mais situation sans rapport — Jason presse Médée d’achever le meurtre, Dionysos prépare Pentheus.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Med. 1014-1015 ; Eur. Bacch. 827",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 1014,
+      "line_end": 1015
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg017",
+      "line_start": 827,
+      "line_end": 827
+    }
+  },
+  {
+    "id": "m141",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : proximité de vocabulaire général autour du mieux / de la vie / de la demande, mais aucun scénario commun entre le meurtre final de Médée et le dénouement heureux d’Alceste.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Med. 1014-1015 ; Eur. Alc. 1157-1158",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 1014,
+      "line_end": 1015
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg001",
+      "line_start": 1157,
+      "line_end": 1158
+    }
+  },
+  {
+    "id": "m142",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : demande adressée à un proche et lexique de supplication/interrogation, mais Jason face à Médée ne correspond pas à Hippolyte demandant à Thésée ce qui est arrivé à Phèdre.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Med. 1014-1015 ; Eur. Hipp. 910-912",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi004",
+      "line_start": 1014,
+      "line_end": 1015
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg005",
+      "line_start": 910,
+      "line_end": 912
+    }
+  },
+  {
+    "id": "m143",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : structure brève d’assentiment / injonction morale, mais aucun lien tragique ou mythique entre le débat Sénèque-Néron dans l’Octavie et Néoptolème aidant Philoctète.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Ps.-Sen. Oct. 449 ; Soph. Phil. 893",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi010",
+      "line_start": 449,
+      "line_end": 449
+    },
+    "greek": {
+      "tlg_author": "tlg0011",
+      "work_id": "tlg006",
+      "line_start": 893,
+      "line_end": 893
+    }
+  },
+  {
+    "id": "m144",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : enfant confié / élevé ailleurs, mais la reconnaissance d’Œdipe et l’accusation mensongère dans Ion ne partagent pas de relation intertextuelle locale.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Oed. 848-850 ; Eur. Ion 820-823",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 848,
+      "line_end": 850
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg010",
+      "line_start": 820,
+      "line_end": 823
+    }
+  },
+  {
+    "id": "m145",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : prières, victimes et gestes rituels produisent une forte proximité lexicale, mais la joie rituelle thébaine chez Sénèque n’est pas la supplication civique angoissée des Sept.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. HF 876-877 ; Aesch. Sept. 155-156",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 876,
+      "line_end": 877
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg003",
+      "line_start": 155,
+      "line_end": 156
+    }
+  },
+  {
+    "id": "m146",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : proximité lexicale sur mourir / parenté, mais menace de Lycus et lamentation du chœur pour Pélée ne relèvent pas d’un même noyau intertextuel.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. HF 428-429 ; Eur. Andr. 1208",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi001",
+      "line_start": 428,
+      "line_end": 429
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg006",
+      "line_start": 1208,
+      "line_end": 1208
+    }
+  },
+  {
+    "id": "m147",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : impératif adressé à un proche, visage/enfants, mais Jocaste face à Œdipe aveugle ne correspond pas à Admète suppliant Alceste mourante.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Oed. 1010-1012 ; Eur. Alc. 388-389",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi006",
+      "line_start": 1010,
+      "line_end": 1012
+    },
+    "greek": {
+      "tlg_author": "tlg0006",
+      "work_id": "tlg001",
+      "line_start": 388,
+      "line_end": 389
+    }
+  },
+  {
+    "id": "m148",
+    "label": 0,
+    "label_name": "negatif",
+    "note": "Hard negative miné : deuil maternel et thrène funèbre, mais Hécube apprenant le sort de Polyxène ne correspond pas au thrène d’Électre/Oreste sur le tombeau d’Agamemnon.",
+    "source_scholar": "Hard negative issu des faux positifs du run ; Sen. Tro. 949-950 ; Aesch. Cho. 334-335",
+    "latin": {
+      "author_id": "phi1017",
+      "work_id": "phi002",
+      "line_start": 949,
+      "line_end": 950
+    },
+    "greek": {
+      "tlg_author": "tlg0085",
+      "work_id": "tlg006",
+      "line_start": 334,
+      "line_end": 335
     }
   }
 ]
